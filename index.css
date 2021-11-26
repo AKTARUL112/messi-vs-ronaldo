@@ -1,0 +1,26 @@
+
+#Header~div{
+  margin-top: 50px;
+}
+.player-info{
+  border: 1px solid black;
+  padding-top: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 20px;
+  width: 400px;
+  overflow: scroll;
+}
+
+#ronaldo,#voting-from{
+  margin-top: 60px;
+}
+a:link{
+  color: red;
+}
+a:visited{
+  color: green;
+}
+a:hover{
+  color:black;
+}
